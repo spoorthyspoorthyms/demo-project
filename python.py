@@ -1,1 +1,6 @@
-printf("spoo")
+print("spoo")
+print("poo")
+print("santhuu")
+print("siddu")
+print("lak")
+print("apppppa")
